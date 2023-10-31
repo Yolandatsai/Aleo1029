@@ -1,4 +1,4 @@
-# token_7090.aleo
+# token_17500.aleo
 
 ## Build Guide
 
@@ -11,5 +11,5 @@ To execute this Aleo program, run:
 ```bash
 snarkvm run hello
 ```
-# Aleo1031
-# Aleo1031
+# Aleo1029
+# Aleo1029
